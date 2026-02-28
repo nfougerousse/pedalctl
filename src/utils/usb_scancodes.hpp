@@ -3,6 +3,7 @@
 #include "../configuration/keys.hpp"
 #include <string>
 #include <array>
+#include <cstdint>
 
 constexpr const char *ScanCodeNames[] = {
     nullptr,
