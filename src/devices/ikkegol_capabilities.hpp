@@ -2,6 +2,7 @@
 
 #include <string>
 #include <optional>
+#include <cstdint>
 
 struct Capabilities {
     uint32_t pedals { 1 };
